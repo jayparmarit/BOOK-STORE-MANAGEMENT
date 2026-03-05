@@ -74,7 +74,7 @@ cp .env.example .env
 Edit the `.env` file with your values:
 
 ```env
-PORT=3000
+PORT=5000
 MONGO_URI=mongodb://localhost:27017/bookstore
 ```
 
@@ -88,7 +88,7 @@ npm run dev
 npm start
 ```
 
-Server will be running at: `http://localhost:3000`
+Server will be running at: `http://localhost:5000`
 
 ---
 
@@ -96,7 +96,7 @@ Server will be running at: `http://localhost:3000`
 
 ### Base URL
 ```
-http://localhost:3000
+http://localhost:5000
 ```
 
 ---
